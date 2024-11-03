@@ -1,6 +1,8 @@
 <h1>Hi, I'm Joseph! </h1>
 
 <h2>👨‍💻 Network Development/Cyber Security Projects:</h2>
+<a href="https://github.com/users/JosephBarrett-IT/projects/1">Lab 01: Samba Fileshare Linux -> Windows</a>
+
 <h2> Certifications </h2>
 <ul>Comptia Network+</ul>
   <ul>Comptia Security+</ul>
